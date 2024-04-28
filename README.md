@@ -186,10 +186,164 @@ This project utilizes readily available electronic components such as Arduino na
 ### 2.1	Activity 1
   ## Components used
 
-### Component	                       Function	                                      Specifications	                                                                     Picture
+**Circuit Name**       |       **Number of events**         **Circuit Name**       |       **Number of events**
+:-------------------:  |   :--------------------------:     :-------------------:  |    :-------------------:
+Australian             |          	 1                                              |
+British                |           	8                                              |
+Dutch   	              |            10                                             |
+Finnish	               |            1                                              |
+French	                |            1                                              |
+Mexican                |           	1                                              |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |                                                           |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       |
+                       
 
+                       
 
+                       
 
+                      
+                      
+                       
+                       
+                    
 
 
 
