@@ -170,11 +170,11 @@ Student power laboratory provide a valuable platform for practical learning in s
 ## 1.2	Objectives of Laboratory and Mini Project 1   
 The primary objectives of this mini-project are:
 
-To build a mini-project on Intruder system with Arduino Nano
-To familiarize students with various electronic components like sensors, buzzers, LEDs, and microcontrollers.
-To learn the fundamental principles of connecting electronic components to build a working circuit.
-To gain an introduction to Arduino Nano programming for sensor input and output control.
-To develop problem-solving and analytical skills through troubleshooting and project development.
+* To build a mini-project on Intruder system with Arduino Nano
+* To familiarize students with various electronic components like sensors, buzzers, LEDs, and microcontrollers.
+* To learn the fundamental principles of connecting electronic components to build a working circuit.
+* To gain an introduction to Arduino Nano programming for sensor input and output control.
+* To develop problem-solving and analytical skills through troubleshooting and project development.
 
 ## Project Description
 
@@ -290,34 +290,34 @@ Arduino Nano Programming with PIR Sensor and Buzzer
 
 > // Define Pin connections Const int pirPin = 2; 
 
-  >> // PIR sensor connected to digital pin 2 Const int buzzerPin = 8;
+  > // PIR sensor connected to digital pin 2 Const int buzzerPin = 8;
 
-  >> // Buzzer connected to digital pin 8 Const int ledPin = 13; 
+  > // Buzzer connected to digital pin 8 Const int ledPin = 13; 
     boolean previousState = LOW;   Void setup () {    
 
 > // Set PIR sensor pin as input pinMode (pirPin, INPUT); 
 
-   >> // Set buzzer pin as output pinMode (buzzerPin, OUTPUT); 
+   > // Set buzzer pin as output pinMode (buzzerPin, OUTPUT); 
    pinMode (ledPIN, OUTPUT);     Void loop() { 
 
-  >> // Read the current of the PIR sensor 
+  > // Read the current of the PIR sensor 
    boolean currentState = digitalRead (pirPin);  
 
-  >> // Check if the state has changed from LOW to HIGH 
-   (motion detected) If (currentState == HIGH && previousState == LOW) { 
+> // Check if the state has changed from LOW to HIGH 
+   (motion detected) If (currentState == HIGH && previousState == LOW) {
+ 
+  > // Play a continuous beeping sound on the buzzer tone (buzzerPin, 10000); 
 
- > // Play a continuous beeping sound on the buzzer tone (buzzerPin, 10000); 
+  > // Adjust frequency for desired sound (Hz) digitalWrite (ledPin, HIGH);  
 
-   >> // Adjust frequency for desired sound (Hz) digitalWrite (ledPin, HIGH);  
-
-   >> // Print a message to the serial monitor (optional) Serial.printIn(“Motion detected!”); } 
+> // Print a message to the serial monitor (optional) Serial.printIn(“Motion detected!”); } 
     else if (currentState == LOW && previousState == HIGH) { 
  
-> // Stop the beeping sound noTone (buzzerPin); digitalWrite (ledPin, LOW);  }  
+  > // Stop the beeping sound noTone (buzzerPin); digitalWrite (ledPin, LOW);  }  
 
-  >> // Update the previous state for the next loop iteration previousState = currentState;  
+  > // Update the previous state for the next loop iteration previousState = currentState;  
 
-  >> // Add a delay to avoid excessive checking (optional) delay (100); // Adjust delay time as needed (milliseconds)    
+> // Add a delay to avoid excessive checking (optional) delay (100); // Adjust delay time as needed (milliseconds)    
 
 
 
