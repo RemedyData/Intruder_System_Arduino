@@ -184,213 +184,39 @@ This project utilizes readily available electronic components such as Arduino na
 
 ## 2.0	ACTIVITIES
 ### 2.1	Activity 1
+
   ## Components used
 
-  **Component**        |        **Function**       |      **Specifications**        |          **Picture**                                                      |                           |                                |
-:---------------------:| :-----------------------: | :----------------------------: | :------------------------:                                                |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                | 
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                | 
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |   
-                       |          	                |                                |
-                       |           	               |                                |
-        	              |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |           	               |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                | 
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                | 
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                | 
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                | 
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |   
-                       |          	                |                                |
-                       |           	               |                                |
-        	              |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |           	               |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
-                       |                           |                                |
+  **Component:** PIR Sensor
+  
+  **Function:** Detects infrared radiation changes indicating motion
+  
+  **Specifications:** Operating Voltage: 5V, Detection Range: 3-7 meter
+  
+  **Picture:**
+  
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/9d39d88e-9267-410f-992d-1f92bce144a9)
+
+
+
+  **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**                     
+                       
+                       
+                       
+                       
+   **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**           
 
                        
 
@@ -398,7 +224,13 @@ This project utilizes readily available electronic components such as Arduino na
 
                       
                       
-                       
+  **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**                          
                        
                     
 
@@ -406,6 +238,26 @@ This project utilizes readily available electronic components such as Arduino na
 
 
 
+ **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**   
+
+
+
+
+
+
+ **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**   
 
 
 
@@ -415,6 +267,13 @@ This project utilizes readily available electronic components such as Arduino na
 
 
 
+ **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**   
 
 
 
@@ -424,16 +283,13 @@ This project utilizes readily available electronic components such as Arduino na
 
 
 
-
-
-
-
-
-
-
-
-
-
+ **Component:**
+  
+  **Function:** 
+  
+  **Specifications:**
+  
+  **Picture:**   
 
 
 
