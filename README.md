@@ -186,8 +186,8 @@ This project utilizes readily available electronic components such as Arduino na
 ### 2.1	Activity 1
   ## Components used
 
-  **Component**        |        **Function**       |      **Specifications**        |          **Picture**                                                          
-:---------------------:| :-----------------------: | :----------------------------: | :------------------------:                                                                        
+  **Component**        |        **Function**       |      **Specifications**        |          **Picture**                                                      |                           |                                |
+:---------------------:| :-----------------------: | :----------------------------: | :------------------------:                                                |                           |                                |
                        |                           |                                |
                        |                           |                                |
                        |                           |                                |
