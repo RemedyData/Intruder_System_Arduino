@@ -187,7 +187,7 @@ This project utilizes readily available electronic components such as Arduino na
 
   ## Components used
 
-  **Component:** PIR Sensor
+  **Component 1:** PIR Sensor
   
   **Function:** Detects infrared radiation changes indicating motion
   
@@ -199,24 +199,30 @@ This project utilizes readily available electronic components such as Arduino na
 
 
 
-  **Component:**
+  **Component 2:** Arduino Nano
   
-  **Function:** 
+  **Function:** Microcontroller board for programming and controlling components
   
-  **Specifications:**
+  **Specifications:** Operating Voltage: 5V, Input/Output Pins: 14
   
-  **Picture:**                     
+  **Picture:**    
+
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/aeefaab4-c5be-4c14-aeff-180f69f8c319)
+
                        
                        
                        
                        
-   **Component:**
+   **Component 3:** Buzzer
   
-  **Function:** 
+   **Function:** Electronic sounder to generate an audible alert
   
-  **Specifications:**
+   **Specifications:** Operating Voltage: 3-5V
   
-  **Picture:**           
+   **Picture:**       
+
+   ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/3f5debe9-d81f-4a88-838b-1d6d12485824)
+
 
                        
 
@@ -224,13 +230,19 @@ This project utilizes readily available electronic components such as Arduino na
 
                       
                       
-  **Component:**
+  **Component 4:** LED
   
-  **Function:** 
+  **Function:** Light-emitting diode for visual indication
   
-  **Specifications:**
+  **Specifications:** Operating Voltage: 1.8-3.3V (resistor required)
   
-  **Picture:**                          
+  **Picture:** 
+
+
+
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/d746d5f4-563c-4ccb-9e20-d233e06f0e5a)
+
+
                        
                     
 
@@ -238,88 +250,144 @@ This project utilizes readily available electronic components such as Arduino na
 
 
 
- **Component:**
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-  **Function:** 
   
-  **Specifications:**
+  
+  **Component 5:** Battery (3.7v)
+  
+  **Function:** Power source for the project
+  
+  **Specifications:** Capacity: 1000mAh (or higher)
+  
+  **Picture:**   
+
+  
+
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/12f21f26-1586-494c-9136-9a3e3a3816eb)
+
+
+
+
+
+
+
+ 
+  
+  **Component 6:** Charging Module (Optional)
+  
+  **Function:** Enables charging of the battery
+  
+  **Specifications:** Input Voltage: AC Mains, Output Voltage: DC 5V
+  
+  **Picture:**   
+
+
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/b30a2056-4b6a-4233-82d8-b19141e3d5bc)
+
+
+
+
+
+
+
+
+
+
+
+
+  **Component 7:** Booster Module (Optional)
+  
+  **Function:** Boosts battery voltage if needed
+  
+  **Specifications:** Input Voltage: 3.7v, Output Voltage: 5V
   
   **Picture:**   
 
 
 
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/fb3266ac-84ee-478b-8ea7-6e8e09bb44f7)
 
 
 
- **Component:**
+
+
+
+
+
+
+
+
+  **Component 8:** Ferroboard (Optional)
   
-  **Function:** 
+  **Function:** Reusable board for prototyping circuits
   
-  **Specifications:**
+  **Specifications:** N/A
+  
+  **Picture:** 
+
+
+
+
+
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/086dde9a-4bc2-4dfe-9705-4d08ae3651f0)
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ **Component 9:**  Breadboard (Optional)
+  
+  **Function:** Temporary board for circuit prototyping
+  
+  **Specifications:** N/A
+  
+  **Picture:** 
+
+
+
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/7d8b8fb3-3aff-460a-8075-2e2e4db328ed)
+
+              
+
+
+
+  
+  
+  
+  **Component 10:** Wires
+  
+  **Function:** Connecting components on the circuit board
+  
+  **Specifications:** Different lengths and colors
   
   **Picture:**   
 
-
-
-
-
-
-
-
-
- **Component:**
-  
-  **Function:** 
-  
-  **Specifications:**
-  
-  **Picture:**   
-
-
-
-
-
-
-
-
-
- **Component:**
-  
-  **Function:** 
-  
-  **Specifications:**
-  
-  **Picture:**   
-
-
-
-PIR Sensor	Detects infrared radiation changes indicating motion	Operating Voltage: 5V, Detection Range: 3-7 meters	Opens in a new windowmy.cytron.io
-PIR Sensor
-Arduino Nano	Microcontroller board for programming and controlling components	Operating Voltage: 5V, Input/Output Pins: 14	Opens in a new windowarduino.cc
-Arduino Nano
-Buzzer	Electronic sounder to generate an audible alert	Operating Voltage: 3-5V	Opens in a new windowsquishycircuits.com
-Buzzer
-LED	Light-emitting diode for visual indication	Operating Voltage: 1.8-3.3V (resistor required)	Opens in a new windowwww.lifewire.com
-LED
-Battery (3.7v)	Power source for the project	Capacity: 1000mAh (or higher)	Opens in a new windowmikroe.com
-3.7v Battery
-Charging Module (Optional)	Enables charging of the battery	Input Voltage: AC Mains, Output Voltage: DC 5V	(Optional)
-Opens in a new windowamazon.com
-Charging Module
-Booster Module (Optional)	Boosts battery voltage if needed	Input Voltage: 3.7v, Output Voltage: 5V	(Optional)
-Opens in a new windowwww.amazon.in
-Booster Module
-Ferroboard (Optional)	Reusable board for prototyping circuits	N/A	(Optional)
-Opens in a new windowmekatroniks.com
-Ferroboard
-Breadboard (Optional)	Temporary board for circuit prototyping	N/A	(Optional)
-Opens in a new windowadafruit.com
-Breadboard
-Wires	Connecting components on the circuit board	Different lengths and colors	Opens in a new windowsparkfun.com
-Jumper Wires
   
   
   
+  
+  ![image](https://github.com/RemedyData/Intruder_System_Arduino/assets/137626163/1389d603-3037-4bc7-a0be-e25d098f378d)
+  
+  
+
+
 ## Circuit Diagram
 
 
