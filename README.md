@@ -400,7 +400,7 @@ This project utilizes readily available electronic components such as Arduino na
 
 ### Power System:
 
-PIR intruder system was powered by 5v using the booster module from the battery. Originally, our battery is 3.7v but our arduino needs 5v to work. So, that is why the booster module was used in order to produce 5v for proper efficiency of the arduino nano. Although, our booster module can produce more voltage. With the use of the variac on the booster module we were able achieve 5v. 
+PIR intruder system was powered by 5v using the booster module from the battery. Originally, our battery is 3.7v but our arduino needs 5v to work. So, that is why the booster module was used in order to produce 5v for proper efficiency of the arduino nano. However, our booster module can produce more voltage above 5v. With the use of the variac on the booster module we were able achieve 5v. 
 
 ### Switch:
 
